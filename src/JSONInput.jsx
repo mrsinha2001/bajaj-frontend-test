@@ -17,7 +17,7 @@ function JSONInput({ onSubmit }) {
   };
 
   return (
-    <div>
+    <div classname="bg-center">
       <input
         type="text"
         value={input}
